@@ -5,7 +5,5 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Fiducia.gg
-- 🌱 I’m currently learning math
-- 👯 I’m looking to collaborate on ^
+- 🔭 I’m currently working on Fiducia.GG
 - ⚡ Fun fact: C++ > Rust
